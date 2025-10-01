@@ -1,0 +1,46 @@
+{
+  "name": "fooddeliveryproject",
+  "version": "1.0.0",
+  "description": "\"my food Dilvery app\"",
+  "homepage": "https://github.com/DeepeshSharma1807/FoodDeliveryApp#readme",
+  "bugs": {
+    "url": "https://github.com/DeepeshSharma1807/FoodDeliveryApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepeshSharma1807/FoodDeliveryApp.git"
+  },
+  "license": "ISC",
+  "author": "Deep",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "parcel index.html",
+    "start": " parcel index.html",
+    "build": "parcel build index.html ",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^6.30.1",
+    "shimmer": "^1.2.1",
+    "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.1",
+    "events": "^3.3.0",
+    "parcel": "^2.15.4",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "querystring-es3": "^0.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.4",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2"
+  }
+}
