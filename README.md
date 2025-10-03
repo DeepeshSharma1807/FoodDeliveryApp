@@ -70,7 +70,6 @@ This project helped me understand:
 
 **Styling & Design:**
 - Tailwind CSS classes (so much faster than regular CSS)
-- Making responsive designs that work on phones
 - Creating hover effects and animations
 - Using gradients and shadows for modern look
 
@@ -79,7 +78,6 @@ This project helped me understand:
 - Separating logic into custom hooks
 - Organizing files properly with proper extensions (.jsx for React components)
 - Writing clean, readable code
-- Implementing fallback systems for better user experience
 - Using modern build tools for better development experience
 
 ## 🎨 Features I'm Proud Of
@@ -108,32 +106,7 @@ This project helped me understand:
 - **Component Structure**: Figuring out how to break down the UI into components
 - **File Extensions**: Learning when to use .js vs .jsx for React components
 
-## � WGetting Started
 
-To run this project locally:
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server (Vite)
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-```
-
-The app will be available at `http://localhost:5173` (Vite's default port).
-
-## 🌐 Deployment
-
-This app is configured for Netlify deployment with:
-- Automatic builds from the main branch
-- Proper routing configuration for single-page apps
-- Optimized build output from Vite
 
 ## 🔮 What I Want to Add Next
 
@@ -153,7 +126,6 @@ Looking back, I would:
 - Plan the component structure better from the start
 - Use TypeScript (heard it's good for catching errors)
 - Add more error handling (though the mock data fallback helps!)
-- Write some tests (still need to learn this)
 - Use a state management library for complex data
 - Start with Vite from the beginning instead of migrating later
 - Implement proper error boundaries for better user experience
